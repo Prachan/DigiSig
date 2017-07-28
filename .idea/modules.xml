@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MultipleClientServer.iml" filepath="$PROJECT_DIR$/MultipleClientServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigiSig.iml" filepath="$PROJECT_DIR$/DigiSig.iml" />
     </modules>
   </component>
 </project>
